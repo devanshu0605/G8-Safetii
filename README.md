@@ -30,6 +30,8 @@ This repository contains the assets required to build the [ SAFETII ](https://gi
 
 ![WhatsApp Image 2023-06-20 at 12 36 48](https://github.com/devanshu0605/G8-Safetii/assets/86067292/03e023bc-6016-489a-958c-cbd60320f735)
 
+<h3 align="center"> AI Chatbot </h3>
+<img width="1438" alt="Screenshot 2023-06-22 at 4 13 34 PM" src="https://github.com/devanshu0605/G8-Safetii/assets/86067292/7791f6c4-1604-400a-8f55-02d2c20adbce">
 
 
 ##  ❤️ Thanks to all Contributors
